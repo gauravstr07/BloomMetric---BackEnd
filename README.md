@@ -134,4 +134,4 @@ This application allows users to:
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/gauravstr07/spring-boot-fitness-tracker.git
+git clone https://github.com/gauravstr07/BloomMetric---BackEnd
